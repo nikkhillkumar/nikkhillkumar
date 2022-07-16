@@ -8,7 +8,7 @@
 
 <br />
 
-Hey everyone, I am Nikhil kumar, a self learner who is a co founder of futuregaming.io, and is currently learning javascript, and also know basics of C++ and Python.
+Hey everyone, I am Nikhil kumar, a self learner who is a co founder of futuregaming.io, and is in the learning stage, I know some basic concepts of C++, Python and javascript, which helped me grow my programming skills.
 I have always passion for softwares and open to learn new skills whenever required.
 
   
