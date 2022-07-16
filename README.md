@@ -12,7 +12,7 @@ Hey everyone, I am Nikhil kumar, a self learner who is a co founder of futuregam
 I have always passion for softwares and open to learn new skills whenever required.
 
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 want to write on futuregaming.io, [email](mailto:me.futuregaming@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
