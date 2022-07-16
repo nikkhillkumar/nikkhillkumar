@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/nikhil-kumar-21b79a245/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+<br />
 <br />
 
 Hey everyone, I am Nikhil kumar, a self learner who is a co founder of futuregaming.io, and is in the learning stage, I know some basic concepts of C++, Python and javascript, which helped me grow my programming skills.
