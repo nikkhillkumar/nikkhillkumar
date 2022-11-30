@@ -1,4 +1,4 @@
-### hey there!
+### hello there!
 <a href="https://discordapp.com/users/1170">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -19,9 +19,6 @@ I have always passion for softwares and open to learn new skills whenever requir
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
  <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
@@ -29,8 +26,7 @@ I have always passion for softwares and open to learn new skills whenever requir
 <!--START_SECTION:waka-->
 
 ```text
-NodeJS         40 %
-React          30 %
+MERN STACK       40 %
 
 ```
 
@@ -39,9 +35,9 @@ React          30 %
 
 🚧 **learned Languages:**
 <!-- TODO-IST:START -->
-🏆  Learned HTML & CSS          
-🌸  Learned C++ (Basics)      
-✅  Learned Python (Basics)         
+🏆  Learned HTML & CSS & 
+✅  Learned Javascript
+🌸  Learned C++ (Basics)              
 ⏳  Learned MySQL
 <!-- TODO-IST:END -->
 
