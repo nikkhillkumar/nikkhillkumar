@@ -1,4 +1,4 @@
-### hello there!
+### Hello there!
 <a href="https://discordapp.com/users/1170">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -8,37 +8,25 @@
 <br />
 <br />
 
-Hey everyone, I am Nikhil Kumar, a self-learner who is the founder of futuregaming.io and is in the learning stage, I know some basic concepts of C++, Python, and JavaScript, which have helped me grow my programming skills. I've always been interested in software and am willing to learn new skills as needed. 
+# Nikhil Kumar 🚀
 
-  
-- 💼 want to write on futuregaming.io, [email](mailto:me.futuregaming@gmail.com) :)
-- 💬 ask me about anything, i am happy to help;
+Founder of [Futuregaming.io](https://futuregaming.io)
+
+I am a software enthusiast with experience in C++, Python, and JavaScript 💻. I am always eager to learn new skills and technologies to enhance my abilities as a developer 📚.
+
+Currently, I am diving into the MERN stack to expand my knowledge and skills in web development 🚀.
+
+I am passionate about creating efficient and user-friendly software, and I am always looking for new opportunities to collaborate and learn from other developers 🤝.
+
+Feel free to reach out to me on GitHub or LinkedIn if you would like to connect or collaborate on a project 📞.
 
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
- <img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-📊 **Currently Learning**
-<!--START_SECTION:waka-->
+![alt text](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif)
 
-```text
-MERN STACK       40 %
-
-```
-
-<!--END_SECTION:waka-->
-
-
-🚧 **learned Languages:**
-<!-- TODO-IST:START -->
-🏆  Learned HTML & CSS & 
-✅  Learned Javascript
-🌸  Learned C++ (Basics)              
-⏳  Learned MySQL
-<!-- TODO-IST:END -->
 
 
 
