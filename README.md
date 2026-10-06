@@ -1,27 +1,25 @@
-### Hello there!
-<br />
-<br />
+# Hi, I'm Nikhil 👋
 
-# Nikhil Kumar 🚀
+**Data Analyst** based in Cardiff, UK. I turn messy business data into clear KPIs, dashboards and recommendations.
 
-Founder of [Futuregaming.io](https://futuregaming.io)
+- 🎓 MSc Advanced Computer Science, Cardiff Metropolitan University (dissertation on fine-tuning large language models)
+- 🚀 Previously founded and ran Futuregaming.io for two years, using data to grow user engagement by 60%
+- 🔎 Looking for entry-level **Data, MI or Insight Analyst** roles in Cardiff, Bristol or remote
+- 📫 [LinkedIn](https://www.linkedin.com/in/itsnikkhill/) · itsnikkhill@gmail.com
 
-I am a software enthusiast with experience in C++, Python, and JavaScript 💻. I am always eager to learn new skills and technologies to enhance my abilities as a developer 📚.
+---
 
-Currently, I am diving into the MERN stack to expand my knowledge and skills in web development 🚀.
+## Featured projects
 
-I am passionate about creating efficient and user-friendly software, and I am always looking for new opportunities to collaborate and learn from other developers 🤝.
+| Project | What it shows | Tools |
+|---|---|---|
+| [**Retail Early Warning System**](https://github.com/nikkhillkumar/retail-early-warning-system) | A 9-step SQL pipeline over 541k real UK retail transactions, with weekly KPIs, statistical alerts with reason codes, and an Isolation Forest model that catches anomalies the rules miss | PostgreSQL, Python, Scikit-learn |
+| [**Financial Risk & Customer Intelligence**](https://github.com/nikkhillkumar/financial-intelligence-platform) | A banking star schema built from 284k card transactions, K-Means customer segments, an explainable risk scorecard, and a Power BI dashboard with Customer 360 drill-through | Python, SQL, Power BI |
+| [**Operational Efficiency & Cost Leakage**](https://github.com/nikkhillkumar/operational-efficiency) | Overtime and idle-time cost analysis across 5 teams (simulated data), quantifying about £65k of leakage, with team benchmarking and regression on what drives overtime | Python, SQL |
+| [**London Tube Delays**](https://github.com/nikkhillkumar/london-tube-delays) | Delay hotspot mapping and prediction for the Underground, using station coordinates from the TfL API *(being upgraded to live TfL data)* | Python, TfL API, Scikit-learn |
 
-Feel free to reach out to me on GitHub or LinkedIn if you would like to connect or collaborate on a project 📞.
+## Toolkit
 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-
-![alt text](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif)
-
-
-
-
-
+**Analysis & BI:** SQL (PostgreSQL, MySQL) · Power BI (DAX) · Tableau · Excel · Google Analytics
+**Python:** Pandas · NumPy · Scikit-learn · Matplotlib · Seaborn · Jupyter
+**Other:** Git · REST APIs · LLM fine-tuning
